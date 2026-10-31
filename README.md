@@ -8,12 +8,12 @@ ScrollWorkflows provides plug-and-play ComfyUI, n8n, and RunPod automation toolk
 
 ### Documentation Structure
 
-- **Getting Started:** Quick start, prerequisites, and platform orientation.
+- **[Getting Started](getting-started.md):** Quick start, prerequisites, and platform orientation.
 - **Toolkits:**
   - Image → Ads Pipeline
   - AI Influencer Consistency
   - Autonomous Mini-Series
-- **Infrastructure & Deployment:** RunPod GPU instances, Docker environments, and cloud storage.
+- **[Infrastructure & Deployment](runpod-deployment.md):** RunPod GPU instances, Docker environments, and cloud storage.
 
 ## Contributing & Support
 
