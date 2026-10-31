@@ -27,5 +27,3 @@ ScrollWorkflows provides three primary plug-and-play workflows:
 ## 4. Need Help?
 
 Join our community discord or open an issue on the repository if you encounter missing custom node definitions.
-
-
