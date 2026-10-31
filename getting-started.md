@@ -23,3 +23,8 @@ ScrollWorkflows provides three primary plug-and-play workflows:
 3. Install any missing custom nodes via **ComfyUI-Manager** by clicking **"Install Missing Custom Nodes"**.
 4. Restart ComfyUI to reload newly compiled python modules.
 5. In **n8n**, click **Workflows → Import from File** to load the automation triggers and webhook handlers.
+
+## 4. Need Help?
+
+Join our community discord or open an issue on the repository if you encounter missing custom node definitions.
+

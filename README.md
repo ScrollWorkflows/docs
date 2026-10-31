@@ -14,3 +14,8 @@ ScrollWorkflows provides plug-and-play ComfyUI, n8n, and RunPod automation toolk
   - AI Influencer Consistency
   - Autonomous Mini-Series
 - **Infrastructure & Deployment:** RunPod GPU instances, Docker environments, and cloud storage.
+
+## Contributing & Support
+
+Contributions, documentation fixes, and toolkit requests are welcome! Please open a pull request or issue on this repository.
+
